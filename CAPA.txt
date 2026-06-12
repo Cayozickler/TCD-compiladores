@@ -1,0 +1,19 @@
+CENTRO UNIVERSITÁRIO DE BRASÍLIA - CEUB
+Faculdade de Tecnologia e Ciências Sociais - FATECS
+Curso: Ciência da Computação
+Disciplina: Compiladores
+Professor: Leonardo Pol
+
+TRABALHO DE CONCLUSÃO DA DISCIPLINA - TCD
+AVALIAÇÃO FINAL - Laboratório de Pesquisa de Compiladores
+
+Projeto B - Compilador para a Linguagem LPS1
+
+Alunos: Davi Maia, Cayo Zickler e Nathan
+Turma: B
+
+Itens entregues:
+    Parte (a) - Analisador sintático + geração de código C misturada ao parser
+    Parte (b) - Analisador sintático + ASA + geração de código C nos métodos da ASA
+    Exemplo 1 em LPS1 e saída C gerada
+    Exemplo 2 em LPS1 e saída C gerada

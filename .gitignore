@@ -1,0 +1,10 @@
+out/
+*.class
+sources.txt
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml

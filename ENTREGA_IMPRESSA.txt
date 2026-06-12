@@ -1,0 +1,30 @@
+ORDEM SUGERIDA PARA IMPRESSÃO
+
+1. CAPA.txt preenchida com nome, RA, turma e data.
+2. Listagem dos arquivos Java da parte comum:
+   - src/lps1/common/TokenType.java
+   - src/lps1/common/Token.java
+   - src/lps1/common/CompileException.java
+   - src/lps1/common/Lexer.java
+   - src/lps1/common/CWriter.java
+   - src/lps1/common/FileUtil.java
+3. Listagem dos arquivos da parte (a):
+   - src/lps1/a/CompiladorA.java
+   - src/lps1/a/ParserA.java
+4. Listagem dos arquivos da parte (b):
+   - src/lps1/b/CompiladorB.java
+   - src/lps1/b/ParserB.java
+   - src/lps1/b/ASA.java
+5. Listagem dos exemplos LPS1:
+   - examples/exemplo1.lps1
+   - examples/exemplo2.lps1
+6. Listagem do código C gerado:
+   - outputs/exemplo1_parte_a.c
+   - outputs/exemplo2_parte_a.c
+   - outputs/exemplo1_parte_b.c
+   - outputs/exemplo2_parte_b.c
+
+RESPOSTA DA PERGUNTA: O QUE FAZ O SEGUNDO EXEMPLO?
+
+O segundo exemplo testa se o número lido é primo ou composto. Ele procura um divisor entre 2 e n - 1.
+Na lógica do exemplo, imprime 0 para número primo e 1 para número composto.
